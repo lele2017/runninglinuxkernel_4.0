@@ -1,3 +1,6 @@
+# sample路径 
+runninglinuxkernel_4.0/rlk_lab/
+
 # runninglinuxkernel_4.0 for 《奔跑吧Linux内核》 《奔跑吧Linux内核*入门篇》
 
 ## 国内git镜像
